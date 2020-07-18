@@ -102,8 +102,7 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNmrjzmGv9EBPL7HsitSh1jGqhvESwzkN7KXXrnTessEC0h6ua&usqp=CAU" group-title="Kolkata Bangla",Zee Bangla HD
 #EXTGRP:Kolkata Bangla
-#http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
-
+http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
 #EXTINF:-1 , Jalsha HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Kolkata Bangla",Colors Bangla HD
@@ -147,6 +146,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi",Zee TV HD
 #EXTGRP:Hindi Entertainment
 #http://103.141.66.36/bpk-tv/10403/default/
+http://216.144.250.174/Zee_TV_HD_01/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Akamai",Sony SAB HD
 #https://bit.ly/2zGNgKf
 #http://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1595010646~acl=%2f*~data=hdntl~hmac=ac6fbe5b2e0502bd6277d77f59be87d77a0912d04f02807ffc78758278b463d5/master_1300.m3u8
@@ -199,10 +199,20 @@ https://stream.amrbd.com/kn7a/tracks-v1a1/mono.m3u8
 #http://103.205.133.14/hls/sonypix.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="EBox",HBO 
 http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="EBox",HBO 
+http://ctgiptv.kitv.live:1935/live/test/test1/45.ts 
+
+
 #EXTINF:-1 ,ZEE CAFE  
 #http://103.141.66.36/bpk-tv/10229/default/manifest.mpd
-#EXTINF:-1 , And Flix
+http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
+#EXTINF:-1 , & Flix
 #http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
+http://103.214.202.218:8081/live/andflix-29/playlist.m3u8
+#EXTINF:-1 , & PRIVE
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+
 #EXTINF:-1 , AMC
 #http://iptv.rent:8080/50i19qxmij/h5kr0yxmoh/657017
 #EXTINF:-1 , Sky Cinema Hits
@@ -274,8 +284,8 @@ http://103.81.104.222/live/ten-cricket/index.m3u8
 http://securetv.net:8080/zguyMk8K8P/7602260256/15965?checkedby:iptvcat.com
 #EXTINF:-1, Ads Sports Cricket
 #http://212.47.252.54/hls/stream.m3u8?checkedby:iptvcat.com
-
-
+#EXTINF:-1, FOX
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/J5pj2eG.png" group-title="EBox",Sky Sports Mix
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/AZwSWfS.png" group-title="EBox",Bein Sports HD 2
