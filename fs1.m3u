@@ -194,9 +194,9 @@ https://stream.amrbd.com/kn7a/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="Akamai",Sony PIX HD
 #https://bit.ly/2ShkUwm
-http://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1595010646~acl=%2f*~data=hdntl~hmac=ac6fbe5b2e0502bd6277d77f59be87d77a0912d04f02807ffc78758278b463d5/master_1300.m3u8
+#http://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1595010646~acl=%2f*~data=hdntl~hmac=ac6fbe5b2e0502bd6277d77f59be87d77a0912d04f02807ffc78758278b463d5/master_1300.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="EBox",Sony PIX HD
-http://103.205.133.14/hls/sonypix.m3u8
+#http://103.205.133.14/hls/sonypix.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="EBox",HBO 
 http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF:-1 ,ZEE CAFE  
@@ -261,7 +261,8 @@ https://stream.amrbd.com/Ten3HD/tracks-v1a1/mono.m3u8
 
 
 
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="EBox",Sky Sports Cricket
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Z9fXNQ8.png" group-title="EBox",Ten Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
@@ -274,8 +275,6 @@ http://securetv.net:8080/zguyMk8K8P/7602260256/15965?checkedby:iptvcat.com
 #EXTINF:-1, Ads Sports Cricket
 #http://212.47.252.54/hls/stream.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/IpBivcg.png" group-title="EBox",Sky Sports Cricket
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/J5pj2eG.png" group-title="EBox",Sky Sports Mix
 
@@ -317,8 +316,8 @@ https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="EBox",Nat Geo Wild
 #http://iptv.rent:8080/50i19qxmij/h5kr0yxmoh/15810
-#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="EBox",Animal Planet HD
-http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="EBox",Animal Planet
+https://stream.amrbd.com/Animal_Planent/tracks-v1a1/mono.m3u8
 #EXTINF:-1, History
 http://103.214.202.218:8081/live/history/chunks.m3u8
 
@@ -393,7 +392,6 @@ http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 group-title="Bangla",Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="JAGO BD",Varendra TV [BD]
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="JAGO BD",Royal TV [BD]
