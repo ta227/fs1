@@ -12,8 +12,8 @@ https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 #EXTINF:-1 ,Maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 ,GTV HD
-#https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-https://stream.amrbd.com/kn15a/tracks-v1a1/mono.m3u8
+https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#https://stream.amrbd.com/kn15a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Channel 9 HD
 http://103.141.66.36/bpk-tv/10080/default/manifest.mpd
 #EXTINF:-1 ,DEEPTO TV HD
@@ -199,11 +199,12 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #https://bit.ly/2ShkUwm
 #http://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1595010646~acl=%2f*~data=hdntl~hmac=ac6fbe5b2e0502bd6277d77f59be87d77a0912d04f02807ffc78758278b463d5/master_1300.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="EBox",Sony PIX HD
-#http://103.205.133.14/hls/sonypix.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="EBox",HBO 
-http://otv.ftpbd.net/streams/111/index.m3u8
+http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="EBox",HBO 
 http://ctgiptv.kitv.live:1935/live/test/test1/45.ts 
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="EBox",HBO 
+http://otv.ftpbd.net/streams/111/index.m3u8
+
 
 
 #EXTINF:-1 , AMC
@@ -244,7 +245,8 @@ http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fbqlG1Y.png" group-title="EBox",ESPN
 https://stream.amrbd.com/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY SIX HD
-https://stream.amrbd.com/SonySix/tracks-v1a1/mono.m3u8
+http://103.205.133.14/hls/sonysix.m3u8
+#https://stream.amrbd.com/SonySix/tracks-v1a1/mono.m3u8
 #http://otv.ftpbd.net/streams/106/index.m3u8
 #https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 
@@ -252,11 +254,11 @@ https://stream.amrbd.com/SonySix/tracks-v1a1/mono.m3u8
 #http://103.205.133.14/hls/ten1.m3u8
 https://stream.amrbd.com/Ten1HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="KITV",Sony Ten 2 HD
-#http://103.205.133.14/hls/ten2.m3u8
-https://stream.amrbd.com/Ten2HD/tracks-v1a1/mono.m3u8
+http://103.205.133.14/hls/ten2.m3u8
+#https://stream.amrbd.com/Ten2HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="EBox",Sony Ten 3 HD
-#http://103.205.133.14/hls/ten3.m3u8
-https://stream.amrbd.com/Ten3HD/tracks-v1a1/mono.m3u8
+http://103.205.133.14/hls/ten3.m3u8
+#https://stream.amrbd.com/Ten3HD/tracks-v1a1/mono.m3u8
 
 
 
