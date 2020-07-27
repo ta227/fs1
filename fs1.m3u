@@ -81,7 +81,7 @@ https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="CCN",Cartoon Network
-
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 #EXTINF:-1 , NICKELODEON
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 , NICKELODEON HD
@@ -114,13 +114,14 @@ https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Kolkata Bangla",Jalsha Movies HD
 #EXTGRP:Kolkata Bangla
 #https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-
-http://otv.ftpbd.net/streams/115/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+#http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="KITV",Sony Aath
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 #https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master.m3u8
 #http://103.205.133.19/hls/sony8.m3u8
 #http://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/hdntl=exp=1595010646~acl=%2f*~data=hdntl~hmac=ac6fbe5b2e0502bd6277d77f59be87d77a0912d04f02807ffc78758278b463d5/master_1300.m3u8
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index_dvr.m3u8
+#https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index_dvr.m3u8
 
 #EXTINF:-1 , DD Bangla
 https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
@@ -130,7 +131,8 @@ https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi",Sony TV
-http://heela.ddns.net:2700/live/sonyindia/index.m3u8
+#http://heela.ddns.net:2700/live/sonyindia/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi",Sony TV
 #https://bit.ly/2y8X7Ik
 
@@ -171,7 +173,8 @@ http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hindi Movies",Sony Max HD
 #EXTGRP:Hindi Movie
 #http://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1595010646~acl=%2f*~data=hdntl~hmac=ac6fbe5b2e0502bd6277d77f59be87d77a0912d04f02807ffc78758278b463d5/master_1300.m3u8
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="KS",Star Gold HD
@@ -189,7 +192,8 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="Akamai",AXN HD
-http://210.210.155.35/uq2663/h/h141/01.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
+#http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageecdc829299af4011.png" group-title="KS",Diva
 https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="Others",Star Movies HD
@@ -214,9 +218,22 @@ http://otv.ftpbd.net/streams/111/index.m3u8
 #http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1 ,Electric Now
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
-#EXTINF:-1 ,&PRIVE https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 , Sky Cinema Hits
-#http://iptv.rent:8080/50i19qxmij/h5kr0yxmoh/671344
+#EXTINF:-1 ,&PRIVE
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Romedy Bow
+https://stream.amrbd.com/Romedy_now/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , MN+
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="AmrBD",9XM
@@ -233,12 +250,19 @@ https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1 ,Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1 ,VH1
-http://103.141.66.36/bpk-tv/10151/default/manifest.mpd
+#EXTINF:-1 ,e24
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
+
 #EXTINF:-1 ,MTV India
 http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 
+
+#EXTINF:-1 ,VH1
+http://103.141.66.36/bpk-tv/10151/default/manifest.mpd
+
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="KITV",Star Sports 1 HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="KITV",Star Sports 1 Hindi HD
 #http://otv.ftpbd.net/streams/104/index.m3u8
 #http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
@@ -326,7 +350,7 @@ http://otv.ftpbd.net/streams/110/index.m3u8
 https://stream.amrbd.com/Discovery_Hd/tracks-v1a1/mono.m3u8
 http://securetv.net:8080/zguyMk8K8P/7602260256/15920?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="KITV",Discovery Bangla HD
-
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1806468102e0d742.png" group-title="KS",BBC Lifestyle
 https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 
@@ -342,7 +366,8 @@ http://indtv.online/Sony_BBC_Earth_HD.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="EBox",Animal Planet
 https://stream.amrbd.com/Animal_Planent/tracks-v1a1/mono.m3u8
 #EXTINF:-1, History
-http://103.214.202.218:8081/live/history/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
+#http://103.214.202.218:8081/live/history/chunks.m3u8
 
 #EXTINF:-1 group-title="Documentary",FYI TV18 HD
 #EXTGRP:Documentary
@@ -350,6 +375,7 @@ http://103.214.202.218:8081/live/history/chunks.m3u8
 #EXTINF:-1,TLC HD
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 #EXTINF:-1,TravelXP HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
 #http://103.81.104.222/live/travelxp/index.m3u8
 #EXTINF:-1, NASA HD
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
