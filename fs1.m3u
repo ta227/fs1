@@ -87,9 +87,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
 https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 , NICKELODEON HD
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
-#EXTINF:0 group-title="Cartoon",Discovery Kids
+#EXTINF:0 group-title="Cartoon",Disney Cartoon
 #EXTGRP:Cartoon
-
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
 
 #EXTINF:-1 group-title="Cartoon",CBeebies
 #EXTGRP:Cartoon
@@ -97,8 +97,8 @@ https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image19af25ea624db0f9.png" group-title="KITV",Sony Yay
 #https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1595010646~acl=%2f*~data=hdntl~hmac=ac6fbe5b2e0502bd6277d77f59be87d77a0912d04f02807ffc78758278b463d5/master_1300.m3u8
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
-
+#https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNmrjzmGv9EBPL7HsitSh1jGqhvESwzkN7KXXrnTessEC0h6ua&usqp=CAU" group-title="Kolkata Bangla",Zee Bangla
 #EXTGRP:Kolkata Bangla
@@ -134,6 +134,7 @@ https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi",Sony TV
 #http://heela.ddns.net:2700/live/sonyindia/index.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi",Sony TV
 #https://bit.ly/2y8X7Ik
 
@@ -170,7 +171,7 @@ http://103.141.66.36/bpk-tv/10182/default/manifest.mpd
 #http://iptv.rent:8080/max2492/fHs1F3rZuw/3986
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hindi Movies",Sony Max 
 #EXTGRP:Hindi Movie
-http://otv.ftpbd.net/streams/109/index.m3u8
+#http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hindi Movies",Sony Max HD
 #EXTGRP:Hindi Movie
 #http://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1595010646~acl=%2f*~data=hdntl~hmac=ac6fbe5b2e0502bd6277d77f59be87d77a0912d04f02807ffc78758278b463d5/master_1300.m3u8
@@ -182,7 +183,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:0 tvg-logo="blob:https://imgur.com/03b47c0b-9dcd-4dff-ad8b-c3dbd3f27538" group-title="EBox",Star Gold Select HD
 #http://tv.ebox.live:8080/live/star-gold-select.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU" group-title="Hindi Movies",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU" group-title="Hindi Movies",Zee Cinema 
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU" group-title="Hindi Movies",Zee Cinema HD
@@ -213,19 +214,17 @@ http://103.205.133.19/hls/sonypix.m3u8
 #http://ctgiptv.kitv.live:1935/live/test/test1/45.ts 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="EBox",HBO 
-http://otv.ftpbd.net/streams/111/index.m3u8
+#http://otv.ftpbd.net/streams/111/index.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
 
 #EXTINF:-1 ,Zee Cafe
 #http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1 ,Electric Now
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
 #EXTINF:-1 ,&PRIVE
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Romedy Bow
 https://stream.amrbd.com/Romedy_now/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , MN+
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
-
 
 
 
@@ -251,7 +250,7 @@ https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 http://45.120.188.65:8080/0.ts
 #EXTINF:-1 ,Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1 ,e24
+#EXTINF:-1 ,E24
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
 
 #EXTINF:-1 ,MTV India
@@ -273,8 +272,12 @@ http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
 http://otv.ftpbd.net/streams/116/index.m3u8
 #https://stream.amrbd.com/kn2a/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="iBox",Star Sports 3 HD
+https://stream.amrbd.com/kn2a/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="KITV",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="KITV",Star Sports Select 1 HD-Backup
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="KITV",Star Sports Select 2 HD
 http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="KITV",Star Sports Select 2 HD-Backup
@@ -341,6 +344,8 @@ https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
 #EXTINF:-1 ,BT Sports 2
 https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Others",Nat Geo
+https://stream.amrbd.com/NAT-GEO-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Others",Nat Geo HD
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 
@@ -349,12 +354,14 @@ http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="EBox",Discovery HD
 
 https://stream.amrbd.com/Discovery_Hd/tracks-v1a1/mono.m3u8
-http://securetv.net:8080/zguyMk8K8P/7602260256/15920?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="KITV",Discovery Bangla HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image1806468102e0d742.png" group-title="KS",BBC Lifestyle
 https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/Rrgu5uB.png" ,BBC Earth
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/Rrgu5uB.png" group-title="Akamai",Sony BBC Earth
 http://indtv.online/Sony_BBC_Earth_HD.m3u8
 
