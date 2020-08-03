@@ -26,7 +26,8 @@ http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
 #http://103.141.66.36/bpk-tv/10038/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangla",Ekushey TV
 #EXTGRP:Bangla
-http://103.205.133.19/hls/ekushey.m3u8
+https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1 ,BOISHAKHI TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1 ,Nagorik TV HD
@@ -42,7 +43,9 @@ http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1 ,ATN NEWS
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 ,JAMUNA TV
-http://103.205.133.19/hls/jamunatv.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
+#http://103.205.133.19/hls/jamunatv.m3u8
+
 #EXTINF:-1 ,INDEPENDENT TV
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="Bangla News",Somoy News
@@ -53,7 +56,8 @@ https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1 ,News 24
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 ,DBC NEWS
-http://103.205.133.19/hls/dbcnews.m3u8
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#http://103.205.133.19/hls/dbcnews.m3u8
 
 #EXTINF:-1 ,GAAN BANGLA
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
@@ -434,8 +438,6 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 ,ATN Music
 http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="JAGO BD",Deshe Bideshe [BD]
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="JAGO BD",NRB IPTV
