@@ -15,7 +15,8 @@ https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #https://stream.amrbd.com/kn15a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Channel 9 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+http://otv.ftpbd.net/streams/102/index.m3u8
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
 #http://103.141.66.36/bpk-tv/10080/default/manifest.mpd
 #EXTINF:-1 ,DEEPTO TV HD
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
@@ -31,7 +32,8 @@ https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 ,BOISHAKHI TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1 ,Nagorik TV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
 #http://103.141.66.36/bpk-tv/10451/default/manifest.mpd
 #https://stream.amrbd.com/Nagorik-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Jadoo",Duronto TV
@@ -43,7 +45,9 @@ http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1 ,ATN NEWS
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 ,JAMUNA TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
+https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
 #http://103.205.133.19/hls/jamunatv.m3u8
 
 #EXTINF:-1 ,INDEPENDENT TV
@@ -139,10 +143,11 @@ https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi",Sony TV
 #http://heela.ddns.net:2700/live/sonyindia/index.m3u8
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 #https://bit.ly/2y8X7Ik
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi",Sony TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi",Sony TV HD
 #http://172.16.50.2:8081/live/sonytv/chunks.m3u8
 #http://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1595010646~acl=%2f*~data=hdntl~hmac=ac6fbe5b2e0502bd6277d77f59be87d77a0912d04f02807ffc78758278b463d5/master_1300.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
