@@ -384,7 +384,8 @@ http://indtv.online/Sony_BBC_Earth_HD.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="EBox",Nat Geo Wild
 #http://iptv.rent:8080/50i19qxmij/h5kr0yxmoh/15810
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="EBox",Animal Planet
-https://stream.amrbd.com/Animal_Planent/tracks-v1a1/mono.m3u8
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#https://stream.amrbd.com/Animal_Planent/tracks-v1a1/mono.m3u8
 #EXTINF:-1, History
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
 #http://103.214.202.218:8081/live/history/chunks.m3u8
