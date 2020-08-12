@@ -16,7 +16,8 @@ https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #https://stream.amrbd.com/kn15a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Channel 9 HD
 #http://otv.ftpbd.net/streams/102/index.m3u8
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
+http://45.249.187.238:8081/hls/live3.m3u8
 #http://103.141.66.36/bpk-tv/10080/default/manifest.mpd
 #EXTINF:-1 ,DEEPTO TV HD
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
@@ -45,8 +46,8 @@ http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1 ,ATN NEWS
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 ,JAMUNA TV
-https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-
+#https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+http://45.249.187.238:8081/hls/live2.m3u8
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
 #http://103.205.133.19/hls/jamunatv.m3u8
 
@@ -116,7 +117,7 @@ https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNmrjzmGv9EBPL7HsitSh1jGqhvESwzkN7KXXrnTessEC0h6ua&usqp=CAU" group-title="Kolkata Bangla",Zee Bangla HD
 #EXTGRP:Kolkata Bangla
 http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
-#EXTINF:-1 , Jalsha HD
+#EXTINF:-1 , Star Jalsha HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Kolkata Bangla",Colors Bangla HD
 #EXTGRP:Kolkata Bangla
@@ -198,9 +199,10 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU" group-title="Hindi Movies",Zee Cinema HD
 #EXTGRP:Hindi Movie
 #http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
+http://103.141.66.36/bpk-tv/10430/default/index.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="EBox2",& Pictures HD
 #http://103.205.133.19/hls/andpicture.m3u8
-
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="Akamai",AXN HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
@@ -208,8 +210,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imageecdc829299af4011.png" group-title="KS",Diva
 https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="Others",Star Movies HD
-https://stream.amrbd.com/kn7a/tracks-v1a1/mono.m3u8
-
+#https://stream.amrbd.com/kn7a/tracks-v1a1/mono.m3u8
+http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="Others",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 
@@ -220,19 +222,21 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="EBox",Sony PIX HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
 #http://103.205.133.19/hls/sonypix.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="EBox",HBO 
-#http://ctgiptv.kitv.live:1935/live/test/test1/45.ts 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="EBox",HBO 
 #http://otv.ftpbd.net/streams/111/index.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="EBox",HBO HD
+#http://ctgiptv.kitv.live:1935/live/test/test1/45.ts 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 ,Zee Cafe
-#http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
+http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:-1 ,Electric Now
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
 #EXTINF:-1 ,&PRIVE
 #https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1 ,Romedy Bow
 #https://stream.amrbd.com/Romedy_now/tracks-v1a1/mono.m3u8
 
@@ -247,7 +251,9 @@ https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
 
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="AmrBD",9XM
-http://103.141.66.36/bpk-tv/10266/default/manifest.mpd
+#http://103.141.66.36/bpk-tv/10266/default/manifest.mpd
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/nKEj8nf.png" group-title="KITV",MTV India
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/OckuFU2.png" group-title="KS", Zoom
@@ -257,7 +263,7 @@ https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/srRLjLe.png" group-title="KS",MTV Beats India
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1 ,Bindass
-http://45.120.188.65:8080/0.ts
+#http://45.120.188.65:8080/0.ts
 #EXTINF:-1 ,Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1 ,E24
@@ -266,9 +272,12 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
 #EXTINF:-1 ,MTV India
 http://103.141.66.36/bpk-tv/10110/default/index.m3u8
 
+#EXTINF:-1 ,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1 ,VH1
-http://103.141.66.36/bpk-tv/10151/default/manifest.mpd
+#http://103.141.66.36/bpk-tv/10151/default/manifest.mpd
+http://103.141.66.36/bpk-tv/10151/default/index.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="KITV",Star Sports 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
@@ -282,7 +291,7 @@ http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
 http://otv.ftpbd.net/streams/116/index.m3u8
 #https://stream.amrbd.com/kn2a/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="iBox",Star Sports 2 HD-Backup
-https://stream.amrbd.com/kn2a/tracks-v1a1/mono.m3u8
+#https://stream.amrbd.com/kn2a/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="KITV",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
 
@@ -292,25 +301,29 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="KITV",Star Sports Select 2 HD-Backup
 http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/fbqlG1Y.png" group-title="EBox",ESPN
-https://stream.amrbd.com/ESPN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SONY SIX HD
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/fbqlG1Y.png" group-title="EBox",ESPN
+#https://stream.amrbd.com/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY SIX HD
+http://103.49.168.172:8081/ebox/six/chunks.m3u8?
 #https://stream.amrbd.com/SonySix/tracks-v1a1/mono.m3u8
-http://otv.ftpbd.net/streams/106/index.m3u8
+#http://otv.ftpbd.net/streams/106/index.m3u8
 #http://103.205.133.14/hls/sonysix.m3u8
 
 #https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="AmrBD",Sony Ten 1 HD
-http://otv.ftpbd.net/streams/105/index.m3u8
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8 
+#http://otv.ftpbd.net/streams/105/index.m3u8
 #http://103.205.133.14/hls/ten1.m3u8
 #https://stream.amrbd.com/Ten1HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="KITV",Sony Ten 2 HD
-http://103.205.133.14/hls/ten2.m3u8
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8 
+#http://103.205.133.14/hls/ten2.m3u8
 #https://stream.amrbd.com/Ten2HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="EBox",Sony Ten 3 HD
-http://103.205.133.14/hls/ten3.m3u8
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
+#http://103.205.133.14/hls/ten3.m3u8
 #https://stream.amrbd.com/Ten3HD/tracks-v1a1/mono.m3u8
 
 
@@ -334,7 +347,7 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
 #EXTINF:-1, Ads Sports Cricket
 #http://212.47.252.54/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, FOX
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/J5pj2eG.png" group-title="EBox",Sky Sports Mix
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/AZwSWfS.png" group-title="EBox",Bein Sports HD 2
@@ -344,28 +357,21 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="ColorsBD",PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
-#EXTINF:-1,Olympic HD
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1,Olympic HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 ,D Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 ,BT Sports
-https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1 ,BT Sports 2
-https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Others",Nat Geo
 https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Others",Nat Geo HD
+http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Others",Nat Geo HD 2
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Others",Nat Geo HD2
-http://otv.ftpbd.net/streams/110/index.m3u8
+
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="EBox",Discovery HD
 
-https://stream.amrbd.com/Discovery_Hd/tracks-v1a1/mono.m3u8
+#https://stream.amrbd.com/Discovery_Hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="KITV",Discovery Bangla HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
@@ -375,7 +381,7 @@ https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Rrgu5uB.png" ,BBC Earth
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/Rrgu5uB.png" group-title="Akamai",Sony BBC Earth
-http://indtv.online/Sony_BBC_Earth_HD.m3u8
+#http://indtv.online/Sony_BBC_Earth_HD.m3u8
 
 #https://bit.ly/2yVvYIJ
 #EXTINF:0 tvg-logo="https://i.imgur.com/Rrgu5uB.png" group-title="EBox2",Sony BBC Earth
@@ -384,7 +390,8 @@ http://indtv.online/Sony_BBC_Earth_HD.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="EBox",Nat Geo Wild
 #http://iptv.rent:8080/50i19qxmij/h5kr0yxmoh/15810
 #EXTINF:0 tvg-logo="https://i.imgur.com/86jLO7q.png" group-title="EBox",Animal Planet
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+http://45.249.187.238:8081/hls/tsl-1.m3u8
+#http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #https://stream.amrbd.com/Animal_Planent/tracks-v1a1/mono.m3u8
 #EXTINF:-1, History
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
@@ -429,6 +436,11 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 #EXTINF:-1 ,ET
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
+#EXTINF:-1,Olympic HD
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1,Olympic HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 ,One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1,Tennis Channel
@@ -472,16 +484,6 @@ http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
 #EXTINF:-1, ITV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:-1, ARY
-http://103.141.66.36/bpk-tv/10090/default/manifest.mpd
-#EXTINF:-1, ARY
-http://103.141.66.36/bpk-tv/10186/default/manifest.mpd
-#EXTINF:-1, ARY
-http://103.141.66.36/bpk-tv/10091/default/manifest.mpd
-#EXTINF:-1, ARY MUSIC
-http://103.141.66.36/bpk-tv/10089/default/manifest.mpd
-
-
 
 
 
