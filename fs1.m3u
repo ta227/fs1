@@ -55,13 +55,16 @@ http://45.249.187.238:8081/hls/live2.m3u8
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="Bangla News",Somoy News
 #EXTGRP:Bangla News
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+http://45.249.187.238:8081/hls/hdmi2.m3u8
+
+#http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 ,Channel 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1 ,News 24
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 ,DBC NEWS
-https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+http://45.249.187.238:8081/hls/new23.m3u8
+#https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #http://103.205.133.19/hls/dbcnews.m3u8
 
 #EXTINF:-1 ,GAAN BANGLA
@@ -101,7 +104,8 @@ https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:0 group-title="Cartoon",Disney XD
 #EXTGRP:Cartoon
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-
+#EXTINF:0 group-title="Cartoon",Disney Channel
+http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 group-title="Cartoon",CBeebies
 #EXTGRP:Cartoon
 https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
@@ -110,6 +114,7 @@ https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1595010646~acl=%2f*~data=hdntl~hmac=ac6fbe5b2e0502bd6277d77f59be87d77a0912d04f02807ffc78758278b463d5/master_1300.m3u8
 #https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.ts
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNmrjzmGv9EBPL7HsitSh1jGqhvESwzkN7KXXrnTessEC0h6ua&usqp=CAU" group-title="Kolkata Bangla",Zee Bangla
 #EXTGRP:Kolkata Bangla
@@ -313,22 +318,28 @@ http://103.49.168.172:8081/ebox/six/chunks.m3u8?
 #https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="AmrBD",Sony Ten 1 HD
-http://103.214.202.218:8081/live/ten1hd/chunks.m3u8 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+#http://103.214.202.218:8081/live/ten1hd/chunks.m3u8 
 #http://otv.ftpbd.net/streams/105/index.m3u8
 #http://103.205.133.14/hls/ten1.m3u8
 #https://stream.amrbd.com/Ten1HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="AmrBD",Sony Ten 1 HD Backup
+http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="KITV",Sony Ten 2 HD
-http://103.214.202.218:8081/live/ten2hd/chunks.m3u8 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
+#http://103.214.202.218:8081/live/ten2hd/chunks.m3u8 
 #http://103.205.133.14/hls/ten2.m3u8
 #https://stream.amrbd.com/Ten2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="AmrBD",Sony Ten 2 HD Backup
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="EBox",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
 #http://103.205.133.14/hls/ten3.m3u8
 #https://stream.amrbd.com/Ten3HD/tracks-v1a1/mono.m3u8
-
-
-
-
 
 
 
