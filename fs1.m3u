@@ -33,10 +33,10 @@ https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 ,BOISHAKHI TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1 ,Nagorik TV HD
-http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
+#http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 #http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
 #http://45.249.187.238:8081/hls/new16.m3u8
-#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
 #http://103.141.66.36/bpk-tv/10451/default/manifest.mpd
 #https://stream.amrbd.com/Nagorik-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Jadoo",Duronto TV
@@ -304,6 +304,7 @@ http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
 http://otv.ftpbd.net/streams/116/index.m3u8
 #https://stream.amrbd.com/kn2a/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="iBox",Star Sports 2 HD-Backup
+http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #https://stream.amrbd.com/kn2a/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="KITV",Star Sports Select 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
