@@ -33,8 +33,10 @@ https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 ,BOISHAKHI TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1 ,Nagorik TV HD
+http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 #http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
+#http://45.249.187.238:8081/hls/new16.m3u8
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
 #http://103.141.66.36/bpk-tv/10451/default/manifest.mpd
 #https://stream.amrbd.com/Nagorik-TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="Jadoo",Duronto TV
@@ -63,15 +65,16 @@ https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1 ,News 24
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 ,DBC NEWS
-http://45.249.187.238:8081/hls/new23.m3u8
-#https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+#http://45.249.187.238:8081/hls/new23.m3u8
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #http://103.205.133.19/hls/dbcnews.m3u8
 
 #EXTINF:-1 ,GAAN BANGLA
 https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
 
 #EXTINF:-1 ,Bangla TV
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
+#http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="KS",MyTV HD
 https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 #EXTINF:-1 ,ASIAN TV
@@ -80,6 +83,10 @@ http://45.249.187.238:8081/hls/new4.m3u8
 #EXTINF:-1 ,Mohona TV
 https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="EBox2",Anando TV
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/xoy92At.png" group-title="AmrBD",Bijoy TV
+http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
@@ -157,7 +164,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi",Sony TV HD
 #http://172.16.50.2:8081/live/sonytv/chunks.m3u8
 #http://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1595010646~acl=%2f*~data=hdntl~hmac=ac6fbe5b2e0502bd6277d77f59be87d77a0912d04f02807ffc78758278b463d5/master_1300.m3u8
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
+#https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.SETHD.in_720p/index_dvr.m3u8
+#https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_144p/index_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="Hindi",Star Plus HD
 #EXTGRP:Hindi Entertainment
@@ -460,24 +468,24 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 #EXTINF:-1 ,Tennis Channel+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="EBox2",Anando TV
-http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/xoy92At.png" group-title="AmrBD",Bijoy TV
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+
+
+#http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1 ,RTV Music
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 ,ATN Music
 http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg" group-title="JAGO BD",Deshe Bideshe [BD]
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
+#http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="JAGO BD",NRB IPTV
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+#http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla", Shopno TV
 #EXTGRP:Bangla
-http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
+#http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Alif TV" tvg-name="Alif TV" tvg-logo="hhttps://i.ibb.co/443Cxqf/Alif-TV.jpg" group-title="Bangla",Alif TV
+
 #EXTINF:-1 group-title="Bangla",Bangla Channel
 #EXTGRP:Bangla
 http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
@@ -486,31 +494,18 @@ http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 group-title="Bangla",Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="JAGO BD",Varendra TV [BD]
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
+#http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="JAGO BD",Royal TV [BD]
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
+#http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qVy4UdD.jpg" group-title="JAGO BD",RANG IPTV [BD]
-http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
+#http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
 #EXTINF:-1, ITV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 
 
-
-#EXTINF:-1, BACKUP Ekushey
-http://103.141.66.36/bpk-tv/10006/default/manifest.mpd
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="ICC 2",Desh TV
-# EXTINF:-1, Desh TV
-#http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image11c38aaaca938ef4.png" group-title="ICC 3",Desh TV
-http://103.205.133.14/hls/deshtv.m3u8
-#EXTINF:-1, BACKUP
-#http://iptv.kitv.live:1935/live/Shari/MTV-P/118.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="KS",Shomoy TV
-#https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-
-#EXTINF:-1, BACKUP
-http://103.205.133.14/hls/deshtv.m3u8
 
 #EXTINF:-1, BACKUP 71
 http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
