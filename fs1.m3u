@@ -33,11 +33,11 @@ https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 ,BOISHAKHI TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 #EXTINF:-1 ,Nagorik TV HD
-http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
+#http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
 #http://103.214.202.218:8081/live/nagorik/chunks.m3u8
 #http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 #http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
-#http://45.249.187.238:8081/hls/new16.m3u8
+http://45.249.187.238:8081/hls/new16.m3u8
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
 #http://103.141.66.36/bpk-tv/10451/default/manifest.mpd
 #https://stream.amrbd.com/Nagorik-TV/tracks-v1a1/mono.m3u8
@@ -46,7 +46,8 @@ http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
 http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF:-1 ,EKATTOR TV
 #http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
-http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
+http://iptv.kitv.live:1935/live/Shari/MTV-P/2.m3u8
+#http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 #EXTINF:-1 ,ATN NEWS
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 #EXTINF:-1 ,JAMUNA TV
@@ -141,8 +142,11 @@ https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Kolkata Bangla",Jalsha Movies HD
 #EXTGRP:Kolkata Bangla
 #https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
 #http://otv.ftpbd.net/streams/115/index.m3u8
+
+#http://line.ma-cobra.com:80/RBLLS9QX3LU7K/HP8HYVKF5O/63524
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="KITV",Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 #https://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master.m3u8
@@ -161,6 +165,7 @@ https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
 #http://heela.ddns.net:2700/live/sonyindia/index.m3u8
 #http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
+
 #https://bit.ly/2y8X7Ik
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi",Sony TV HD
@@ -193,10 +198,6 @@ http://103.214.202.218:8081/live/sonysab/playlist.m3u8
 http://103.141.66.36/bpk-tv/10182/default/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hindi Movies",Sony Max 
-#EXTGRP:Hindi Movie
-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
-#http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hindi Movies",Sony Max HD
 #EXTGRP:Hindi Movie
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
@@ -205,8 +206,17 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/0x9LfCI.png" group-title="KS",Star Gold HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:0 tvg-logo="blob:https://imgur.com/03b47c0b-9dcd-4dff-ad8b-c3dbd3f27538" group-title="EBox",Star Gold Select HD
-#http://tv.ebox.live:8080/live/star-gold-select.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.adgully.com/img/800/201803/star-gold-select.jpg" group-title="HINDI MOVIE CH.", Star Gold Select HD (2)
+http://line.ma-cobra.com:80/RBLLS9QX3LU7K/HP8HYVKF5O/63564
+#EXTINF: -1 tvg-logo="https://www.adgully.com/img/800/490_tkjlg.jpg" group-title="HINDI MOVIE CH.", UTV Action
+http://45.249.187.238:8081/hls/tsl-7.m3u8
+
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/sa7l0zjfddom6qo/utv.gif" group-title="HINDI MOVIE CH.", UTV HD 
+http://line.ma-cobra.com:80/RBLLS9QX3LU7K/HP8HYVKF5O/63339
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU" group-title="Hindi Movies",Zee Cinema 
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
@@ -218,6 +228,18 @@ http://103.141.66.36/bpk-tv/10430/default/index.m3u8
 #http://103.205.133.19/hls/andpicture.m3u8
 #http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8 
 #http://stream.amrbd.com:8082/AndPicturesHD/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/aujonl1rivlped4/Cineplex.jpg" group-title="HINDI MOVIE CH.", COLOR CINEPLEX HD (2)
+http://line.ma-cobra.com:80/RBLLS9QX3LU7K/HP8HYVKF5O/63577
+
+
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/weyyjtqjebd7lcj/starhd.jpg" group-title="ENGLISH CH.", STAR WORLD HD [INDIA]
+http://line.ma-cobra.com:80/RBLLS9QX3LU7K/HP8HYVKF5O/63550
+
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/s7ikpcx3vw1mb0i/SWP.jpg" group-title="ENGLISH CH.", STAR WORLD PREMIERE HD
+http://line.ma-cobra.com:80/RBLLS9QX3LU7K/HP8HYVKF5O/63549
+
+
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/IpKuSbU.png" group-title="Akamai",AXN HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
 #http://210.210.155.35/uq2663/h/h141/01.m3u8
@@ -475,6 +497,11 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="EBox2",Anando TV
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/xoy92At.png" group-title="AmrBD",Bijoy TV
+http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
+
 
 #http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
@@ -501,11 +528,14 @@ http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 group-title="Bangla",Channel S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="EBox2",Anando TV
-http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/xoy92At.png" group-title="AmrBD",Bijoy TV
-http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
-
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120714.jpg" group-title="BANGLA CH.", Royal Tv
+http://iptvbd.jagobd.com:1934/roalapp/royaltv.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="BANGLA CH.", NANDAN IPTV [BD]
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/75245879.png" group-title="BANGLA CH.", NRB Connect HD
+http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://timetvusa.com/images/ttv200.png" group-title="BANGLA CH.", Time TV USA [BD]
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/live-orgin/timetvusa.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wQVJWSk/Varendra-TV.jpg" group-title="JAGO BD",Varendra TV [BD]
 #http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg" group-title="JAGO BD",Royal TV [BD]
@@ -520,3 +550,5 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1, BACKUP 71
 http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 
+#EXTINF:-1, Nagorik TV
+5/live/CTGDDN/CTGDDN/3.ts
