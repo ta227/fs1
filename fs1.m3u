@@ -24,7 +24,9 @@ https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 ,SATV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1 ,DESH TV
-http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+
+#http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
 #http://103.141.66.36/bpk-tv/10038/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangla",Ekushey TV
 #EXTGRP:Bangla
@@ -334,12 +336,13 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="KITV",Star Sports Select 2 HD
 http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="KITV",Star Sports Select 2 HD-Backup
-http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8
-
+#http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/fbqlG1Y.png" group-title="EBox",ESPN
 #https://stream.amrbd.com/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY SIX HD
-http://103.49.168.172:8081/ebox/six/chunks.m3u8?
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
+#http://103.49.168.172:8081/ebox/six/chunks.m3u8?
 #https://stream.amrbd.com/SonySix/tracks-v1a1/mono.m3u8
 #http://otv.ftpbd.net/streams/106/index.m3u8
 #http://103.205.133.14/hls/sonysix.m3u8
@@ -349,12 +352,13 @@ http://175.41.46.16:8081/hls/4.m3u8
 #https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="AmrBD",Sony Ten 1 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
+#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #http://103.214.202.218:8081/live/ten1hd/chunks.m3u8 
-#http://otv.ftpbd.net/streams/105/index.m3u8
+http://otv.ftpbd.net/streams/105/index.m3u8
 #http://103.205.133.14/hls/ten1.m3u8
 #https://stream.amrbd.com/Ten1HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="AmrBD",Sony Ten 1 HD Backup
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
 http://tv.realstation.live:8080/j-SonyTen1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="KITV",Sony Ten 2 HD
@@ -364,8 +368,8 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
 #https://stream.amrbd.com/Ten2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="AmrBD",Sony Ten 2 HD Backup
-http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
-
+#http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+http://175.41.46.16:8081/hls/7.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="EBox",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
@@ -551,4 +555,4 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
 
 #EXTINF:-1, Nagorik TV
-5/live/CTGDDN/CTGDDN/3.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
