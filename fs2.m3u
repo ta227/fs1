@@ -24,30 +24,31 @@ http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
 http://45.249.187.238:8081/hls/live3.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png" group-title="BANGLA ENT.",GAZI TV HD [BD]
-http://45.249.187.238:8081/hls/live5.m3u8
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+#http://45.249.187.238:8081/hls/live5.m3u8
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png" group-title="BANGLA ENT.",SA TV HD [BD]
 http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 
 #http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
-http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
-
-#http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
+#http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+http://103.205.133.50/hls/deeptotv.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png" group-title="BANGLA ENT.",DEEPTO TV HD 2 [BD]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
 EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7ftip0g8mwytt2r/ekushey_tv.png" group-title="BANGLA ENT.",EKUSHEY TV [BD]
-http://103.214.202.218:8081/live/ekushey/playlist.m3u8
-
+#http://103.214.202.218:8081/live/ekushey/playlist.m3u8
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA ENT.",BOISHAKHI TV [BD]
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
 
 #http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="BANGLA ENT.",DESH TV [BD]
-http://103.205.133.14/hls/deshtv.m3u8
-
+https://ott.bingebd.com/live/ngrp:ott_desh_tv_mobile/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="BANGLA ENT.",BANGLA TV HD [BD]
-http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
-
+#http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
+http://103.205.133.50/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA ENT.",NAGORIK TV HD [BD]
 http://45.249.187.238:8081/hls/new16.m3u8
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
@@ -55,8 +56,8 @@ http://45.249.187.238:8081/hls/new16.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="BANGLA ENT.",DURONTO TV [BD]
 http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="BDIX TVs",3_Jamuna TV 
-http://103.214.202.218:8081/live/jamuna/chunks.m3u8
-
+#http://103.214.202.218:8081/live/jamuna/chunks.m3u8
+http://103.205.133.50/hls/jamunatv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/802xnx0dlm9pznb/amrbd.png" group-title="BDIX TVs",3_Independent TV
 http://103.214.202.218:8081/live/independent/chunks.m3u8
 
@@ -91,11 +92,13 @@ http://45.249.187.238:8081/hls/new8.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TVs",1_ASIAN TV HD
 http://45.249.187.238:8081/hls/new4.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="BANGLA ENT.",BTV
+http://45.249.187.238:8081/hls/new24.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="BANGLA ENT.",BTV
+http://103.205.133.50/hls/btv.m3u8
 #EXTINF:-1 group-title="Islamic",Peace TV Bangla
 #EXTGRP:Islamic
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN]
 http://198.255.87.59:8080/INDIA_BENGALI/STAR_JALSHA_HD/tracks-v1a1/mono.m3u8?token=test
