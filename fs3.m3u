@@ -3,7 +3,8 @@ http://103.205.133.50/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA ENT.",CHANNEL I HD [BD]
 http://global.thunderbd.com/6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png" group-title="BANGLA ENT.",NTV [BD]
-http://global.thunderbd.com/54/tracks-v1a1/mono.m3u8
+http://103.205.133.50/hls/ntv.m3u8
+#http://global.thunderbd.com/54/tracks-v1a1/mono.m3u8
 #http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="BANGLA ENT.",RTV HD [BD]
@@ -18,18 +19,20 @@ http://global.thunderbd.com/51/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="BANGLA ENT.",CHANNEL 9 HD [BD]
 http://global.thunderbd.com/4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png" group-title="BANGLA ENT.",GAZI TV HD [BD]
-http://global.thunderbd.com/1/tracks-v1a1/mono.m3u8
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+#http://global.thunderbd.com/1/tracks-v1a1/mono.m3u8
 #http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png" group-title="BANGLA ENT.",SA TV HD [BD]
 http://global.thunderbd.com/15/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
-http://global.thunderbd.com/8/tracks-v1a1/mono.m3u8
-
+#http://global.thunderbd.com/8/tracks-v1a1/mono.m3u8
+http://103.205.133.50/hls/nagorik.m3u8
+#http://103.205.133.50/hls/deeptotv.m3u8
 EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7ftip0g8mwytt2r/ekushey_tv.png" group-title="BANGLA ENT.",EKUSHEY TV [BD]
 #http://103.214.202.218:8081/live/ekushey/playlist.m3u8
-http://global.thunderbd.com/65/tracks-v1a1/mono.m3u8
-#https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#http://global.thunderbd.com/65/tracks-v1a1/mono.m3u8
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA ENT.",BOISHAKHI TV [BD]
 http://global.thunderbd.com/61/tracks-v1a1/mono.m3u8
 
@@ -147,8 +150,8 @@ http://global.thunderbd.com/74/tracks-v1a1/mono.m3u8
 http://global.thunderbd.com/40/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="IND. ENT.",Zee TV HD
-
-http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
+http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
+#http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="IND. ENT.",SONY SAB HD
 #http://198.255.87.59:8080/INDIA_HINDI/SONY_SAB_HD/tracks-v1a1/mono.m3u8?token=test
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
@@ -197,8 +200,8 @@ https://stream.arylive.com/MusikLive/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS",Sony Ten 1 HD
-http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
-
+#http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
+https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 
 http://global.thunderbd.com/21/tracks-v1a1/mono.m3u8
