@@ -43,6 +43,33 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="JAGO BD IPTV",JAGO_ANANDA TV HD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:0,Jalsha Movies HD
+http://otv.ftpbd.net/streams/115/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/YHa03Rq.png” group-title=”HINDI MOVIES”,SONY SET MAX (1)
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 tvg-logo=”https://i.imgur.com/L8LTymM.jpg” group-title=”ENGLISH MOVIES”,HBO (4)
+http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:0,Star Movies
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:0 group-title="FTPBD" tvg-logo="https://i.imgur.com/CRYe7Gt.png" ,Star Sports 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:0 group-title="FTPBD" tvg-logo="https://i.imgur.com/CRYe7Gt.png" ,Star Sports 2 HD
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:0 group-title="FTPBD" tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" ,Star Sports Select 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:0 group-title="FTPBD" tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" ,Star Sports Select 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:0,Sony Ten 1
+http://otv.ftpbd.net/streams/105/index.m3u8
+#EXTINF:0,Sony Ten 1
+http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1 ,SONY SIX HD
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="Others",Nat Geo HD
+http://otv.ftpbd.net/streams/110/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="JAGO BD IPTV",JAGO_CHANNEL S [UK] [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="JAGO BD IPTV",JAGO_MY CINEMA IPTV [BD]
