@@ -65,7 +65,10 @@ http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD++" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA.",STAR JALSHA HD++
 http://bdiptv.myftp.biz:25461/Orangetv/745rony900/10598
-
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeBangla.in.png",Zee Bangla HD  
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian Bangla Entertainment ",Zee Bangla HD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA",Zee Bangla Cinema [IN]
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
@@ -101,6 +104,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI", Sony MAX2
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStrzJaFx8EVmM-UfOeSVVlPSiwnflHvpRDQ9WyLiHgPAfdR2GU&usqp=CAU" group-title="Hinde Movies",Colors Cineplex HD
+http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="WORLD MOVIES",HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
@@ -143,6 +149,8 @@ http://10.16.100.207:8082/sports/ssselect2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="JAGO BD IPTV",JAGO_TITAS SPORTS [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DiscoveryChannel.uk.png",Discovery HD 
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="NEWS",Al Jazeera FHD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8?@amarnettv.live
