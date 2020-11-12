@@ -144,6 +144,15 @@ http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/200.m3u8
 http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/212.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="Sports",Star Sports Select 2
 http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/198.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="https://seeklogo.com/images/T/ten-sports-logo-9544E367EB-seeklogo.com.gif" group-title="Sports",Ten Sports
+http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",Ptv Sports
+http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://static.epg.best/gb/SkySportsCricket.uk.png" group-title="Sports",Sky Sports Cricket
+http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/753.m3u8
+
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports", (ONLINE) Star Sports 2
 http://10.16.100.207:8082/sports/starsports2.m3u8
 
