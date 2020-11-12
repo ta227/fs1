@@ -136,7 +136,14 @@ https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="Sports",Sony Ten 3 HD
 https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg" group-title="Sports",Star Sports 1
+http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="https://img.favpng.com/10/17/10/star-sports-star-india-television-channel-sony-ten-2-png-favpng-uuyETKtmMTCbpZD1eCcrqWShh.jpg" group-title="Sports",Star Sports 2
+http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="https://www.satlogo.com/hires/ss/star_sports_hk_select_hd_2.png" group-title="Sports",Star Sports Select 1
+http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="Sports",Star Sports Select 2
+http://bdvisioniptv.ddns.net:25461/live/morselin53/7653/198.m3u8
 #EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports", (ONLINE) Star Sports 2
 http://10.16.100.207:8082/sports/starsports2.m3u8
 
