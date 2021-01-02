@@ -45,7 +45,9 @@ http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BANGLA",DEEPTO TV HD [BD]
 #http://103.205.133.50/hls/deeptotv.m3u8
-http://10.16.100.203:8082/bangla/deeptotv.m3u8
+http://103.205.133.48/hls/deeptotv.m3u8
+
+#http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #http://103.132.180.245:8080/6/index.m3u8?@asfaiptv
 #EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BANGLA",DEEPTO TV HD [BD]
 http://163.172.29.246:8081/globalbd/deepto/chunks.m3u8
@@ -161,6 +163,11 @@ http://156.146.43.241:2200/R-EX/HINDI_STAR_BHARAT_HD-in/tracks-v1a1/mono.m3u8?to
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",105.Sony TV HD
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/HINDI_SONY_HD-in/tracks-v1a1/mono.m3u8?token=soheliptv01826655778
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian",105.Sony TV HD
+
+http://103.205.133.48/hls/chs.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian",109.Sony Sab HD
 http://156.146.43.241:2200/R-EX/HINDI_SONY_SAB_HD-in/tracks-v1a1/mono.m3u8?token=
