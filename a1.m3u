@@ -1,0 +1,209 @@
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 53 BTV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/53.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 84 BTV World
+http://tvserver3.roarzone.info:25461/live/free/roarzone/84.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 88 Songsod BD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/88.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg- 01.jpeg?raw=true" group-title="Bangla News",Channel I
+http://tvserver3.roarzone.info:25461/live/free/roarzone/6.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg- 01.jpeg?raw=true" group-title="Bangla News",ATN Bangla
+http://tvserver3.roarzone.info:25461/live/free/roarzone/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg- 01.jpeg?raw=true" group-title="Bangla News",NTV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/54.m3u8
+#EXTINF:-1, Bangla Vision
+http://tvserver3.roarzone.info:25461/live/free/roarzone/3.m3u8
+
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV", Deepto
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV", Maasranga
+http://tvserver3.roarzone.info:25461/live/free/roarzone/51.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV", SATV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/15.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV", Ekushy TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/65.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Boishakhi
+http://tvserver3.roarzone.info:25461/live/free/roarzone/61.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",RTV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/14.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",atv
+http://tvserver3.roarzone.info:25461/live/free/roarzone/16.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",MOHONA
+http://tvserver3.roarzone.info:25461/live/free/roarzone/50.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",MYTV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/56.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",MB
+http://tvserver3.roarzone.info:25461/live/free/roarzone/86.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",NAGORIK
+http://tvserver3.roarzone.info:25461/live/free/roarzone/59.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 9 http://tvserver3.roarzone.info:25461/live/free/roarzone/4.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV", Bangla TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/19.m3u8
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 10 Duronto TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/10.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg- 
+01.jpeg?raw=true" group-title="Bangla News",Jamuna Tv
+http://tvserver3.roarzone.info:25461/live/free/roarzone/13.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC NEWS" tvg-
+01.jpeg?raw=true" group-title="Bangla News",DBC NEWS
+http://tvserver3.roarzone.info:25461/live/free/roarzone/7.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS" tvg- 
+01.jpeg?raw=true" group-title="Bangla News",ATN NEWS
+http://tvserver3.roarzone.info:25461/live/free/roarzone/49.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWS 24" tvg- 
+01.jpeg?raw=true" group-title="Bangla News",NEWS 24
+http://tvserver3.roarzone.info:25461/live/free/roarzone/18.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg-
+01.jpeg?raw=true" group-title="Bangla News",Channel 24
+http://tvserver3.roarzone.info:25461/live/free/roarzone/5.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 7 DBC News
+http://tvserver3.roarzone.info:25461/live/free/roarzone/7.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 11 Ekattor News HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/11.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 12 Independent News
+http://tvserver3.roarzone.info:25461/live/free/roarzone/12.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 13 Jamuna TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/13.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 17 Somoy TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/17.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 18 News 24
+http://tvserver3.roarzone.info:25461/live/free/roarzone/18.m3u8
+
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 58 GB Music
+http://tvserver3.roarzone.info:25461/live/free/roarzone/58.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 82 ATN Music
+http://tvserver3.roarzone.info:25461/live/free/roarzone/82.m3u8
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 102 T-Sports
+http://tvserver3.roarzone.info:25461/live/free/roarzone/102.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 63 ATN Islam TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/63.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE BANGLA " tvg-
+ 01.jpeg?raw=true" group-title="INDIA Bangla",ZEE BANGLA 
+http://tvserver3.roarzone.info:25461/live/free/roarzone/34.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg- 01.jpeg?raw=true" group-title="Shows & Series",Star Jalsha HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/30.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-
+ 01.jpeg?raw=true" group-title="INDIA Bangla",Sony Aath
+http://tvserver3.roarzone.info:25461/live/free/roarzone/33.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel  33 Sony 8
+http://tvserver3.roarzone.info:25461/live/free/roarzone/33.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 34 ZEE Bangla
+http://tvserver3.roarzone.info:25461/live/free/roarzone/34.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 30 Star Jalsha HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/30.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 31 Jalsha Movies HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/31.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 29 ZEE Bangla Cinema
+http://tvserver3.roarzone.info:25461/live/free/roarzone/29.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 32 আকাশ ৮
+http://tvserver3.roarzone.info:25461/live/free/roarzone/32.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 66 Colour বাংলা HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/66.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 95 Ruposhi Bangla
+http://tvserver3.roarzone.info:25461/live/free/roarzone/95.m3u8
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 57 Dhoom Music
+http://tvserver3.roarzone.info:25461/live/free/roarzone/57.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 91 বাংলা টকিজ
+http://tvserver3.roarzone.info:25461/live/free/roarzone/91.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 96 সঙ্গীত বাংলা
+http://tvserver3.roarzone.info:25461/live/free/roarzone/96.m3u8
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 36 Sony SAB
+http://tvserver3.roarzone.info:25461/live/free/roarzone/36.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 38 Sony TV HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/38.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 40 ZEE TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/40.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 67 Star Plus HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/67.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 68 Colours HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/68.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 69 ZEE Cafe HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/69.m3u8
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 100 And Picture HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/100.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 77 Sony MAX HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/77.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 75 Star Gold HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/75.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 76 ZEE Cinema HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/76.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 90 ZEE Action
+http://tvserver3.roarzone.info:25461/live/free/roarzone/90.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 97 B.Flix Movies
+http://tvserver3.roarzone.info:25461/live/free/roarzone/97.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 45 B4U Movies
+http://tvserver3.roarzone.info:25461/live/free/roarzone/45.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 94 ZEE Bollwood
+http://tvserver3.roarzone.info:25461/live/free/roarzone/94.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 37 Sony MAX
+http://tvserver3.roarzone.info:25461/live/free/roarzone/37.m3u8
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 41 Sony PIX
+http://tvserver3.roarzone.info:25461/live/free/roarzone/41.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 78 AND Filix HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/78.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 42 HBO+
+http://tvserver3.roarzone.info:25461/live/free/roarzone/42.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 43 ডিস্কভারী বাংলা
+http://tvserver3.roarzone.info:25461/live/free/roarzone/43.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 35 Nat Geo Wild
+http://tvserver3.roarzone.info:25461/live/free/roarzone/35.m3u8
+
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 20 Sony TEN 1
+http://tvserver3.roarzone.info:25461/live/free/roarzone/20.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 21 Sony TEN 2
+http://tvserver3.roarzone.info:25461/live/free/roarzone/21.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 22 Sony TEN 3
+http://tvserver3.roarzone.info:25461/live/free/roarzone/22.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 23 ESPN HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/23.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 24 Sony TEN Six
+http://tvserver3.roarzone.info:25461/live/free/roarzone/24.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 25 Star Sports 1
+http://tvserver3.roarzone.info:25461/live/free/roarzone/25.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 26 Star Sports 2
+http://tvserver3.roarzone.info:25461/live/free/roarzone/26.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 27 Star Select 1 HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/27.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 28 Star Select 2 HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/28.m3u8
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 70 WilloW Cricket
+http://tvserver3.roarzone.info:25461/live/free/roarzone/70.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 71 Sky Sports Cricket
+http://tvserver3.roarzone.info:25461/live/free/roarzone/71.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 72 ooOoo
+http://tvserver3.roarzone.info:25461/live/free/roarzone/72.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 73 PTV Sports
+http://tvserver3.roarzone.info:25461/live/free/roarzone/73.m3u8
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 92 PTV Word
+http://tvserver3.roarzone.info:25461/live/free/roarzone/92.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 93 Zing Music
+http://tvserver3.roarzone.info:25461/live/free/roarzone/93.m3u8
+
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 48 9xM Music
+http://tvserver3.roarzone.info:25461/live/free/roarzone/48.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 98 9x Jalwa
+http://tvserver3.roarzone.info:25461/live/free/roarzone/98.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 99 9x Jhakaas
+http://tvserver3.roarzone.info:25461/live/free/roarzone/99.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 44 BBC News
+http://tvserver3.roarzone.info:25461/live/free/roarzone/44.m3u8
+
+
+#EXTINF:-1 tvg-logo="ext" group-title="IPTV",Channel 89 Al-Jazeera News
+http://tvserver3.roarzone.info:25461/live/free/roarzone/89.m3u8
+
